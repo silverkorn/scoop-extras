@@ -1,10 +1,10 @@
 {
-    "version": "1.7.2",
+    "version": "1.7.4",
     "description": "A configuration manager for the 86Box emulator.",
     "homepage": "https://github.com/86Box/86BoxManager",
     "license": "MIT",
-    "url": "https://github.com/86Box/86BoxManager/releases/download/1.7.2/86BoxManager_1.7.2.zip",
-    "hash": "c970046aea53e2d4a7a113319e1d0db4ee569a1e51c907fb8cab3c52f994e316",
+    "url": "https://github.com/86Box/86BoxManager/releases/download/1.7.4/86BoxManager_1.7.4.zip",
+    "hash": "3ee27e3d5ee48478af57ad7d481834c3ecc862b318820d2bf472351be3b1cae5",
     "suggest": {
         "86Box": "extras/86box"
     },
