@@ -1,12 +1,12 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "YouTube Music Desktop App bundled with custom plugins",
     "homepage": "https://github.com/th-ch/youtube-music",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/th-ch/youtube-music/releases/download/v2.0.1/YouTube-Music-2.0.1.exe#/dl.7z",
-            "hash": "96d030d2cafa55454c835edc5f3bcc3ec96eadfb89e07061de19f3ecf34ff86a"
+            "url": "https://github.com/th-ch/youtube-music/releases/download/v2.0.2/YouTube-Music-2.0.2.exe#/dl.7z",
+            "hash": "1a13be54dc42db1757cd44a64c2077bbfdf63256bd2035b3144a06581d6eefd2"
         }
     },
     "pre_install": [
