@@ -1,5 +1,5 @@
 {
-    "version": "0.5.11",
+    "version": "0.5.12",
     "description": "A flutter manga reader compatible with Tachiyomi extensions and backups",
     "homepage": "https://github.com/Suwayomi/Tachidesk-Sorayomi",
     "license": {
@@ -11,8 +11,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Suwayomi/Tachidesk-Sorayomi/releases/download/0.5.11/tachidesk-sorayomi-0.5.11-windows-x64.zip",
-            "hash": "a50b3f1b49c449d18423f01942604c00bd87252d9fc4d9812963daa3ddee2d63"
+            "url": "https://github.com/Suwayomi/Tachidesk-Sorayomi/releases/download/0.5.12/tachidesk-sorayomi-0.5.12-windows-x64.zip",
+            "hash": "f2595cfa8dc395cfc563d11a99516b80280c52a633f964d1f7b9f2f4deb2fa19"
         }
     },
     "shortcuts": [
