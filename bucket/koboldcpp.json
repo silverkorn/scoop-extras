@@ -1,13 +1,13 @@
 {
-    "version": "1.46.1",
+    "version": "1.47",
     "description": "A simple one-file way to run various GGML models like LLAMA, ALPACA, VICUNA",
     "homepage": "https://github.com/LostRuins/koboldcpp",
     "license": "AGPL-3.0",
     "notes": "Look Mobel *.bin weights at https://rentry.org/nur779",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/LostRuins/koboldcpp/releases/download/v1.46.1/koboldcpp.exe",
-            "hash": "c2704f00edb3bfa8d77ea1961e307965703b6255d13597e2fc187cfed5ab41ff"
+            "url": "https://github.com/LostRuins/koboldcpp/releases/download/v1.47/koboldcpp.exe",
+            "hash": "cc5fcd24d961744117b4e2cf5e11dd6691ac9dd33b65dce25d83e0add35a31bf"
         }
     },
     "bin": "koboldcpp.exe",
