@@ -1,12 +1,12 @@
 {
-    "version": "0.0.9994",
+    "version": "7.6.2",
     "description": "HTTP/HTTPS proxy",
     "homepage": "https://lantern.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
             "url": "https://media.githubusercontent.com/media/getlantern/lantern-binaries/main/lantern-installer-64-bit.exe#/dl.7z",
-            "hash": "b9ae38f0f3056982ea0cbce9807e446738ea8be6bdabb4aab78d42afb8bec1a8"
+            "hash": "21209ed497eadd77819bd44dd71d99173b6448edff23e3dc9adacd4f2bef642c"
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\uninstall.exe.nsis\" -Force -Recurse",
