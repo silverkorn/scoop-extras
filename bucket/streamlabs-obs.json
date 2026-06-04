@@ -1,12 +1,12 @@
 {
-    "version": "1.21.1",
+    "version": "1.21.3",
     "description": "Open Broadcaster Software for Gamers",
     "homepage": "https://streamlabs.com/streamlabs-obs",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://slobs-cdn.streamlabs.com/Streamlabs+Desktop+Setup+1.21.1.exe#/dl.7z",
-            "hash": "d762aa10b883575c27e545d0b2e2adaf065b99ee24f460f059a0f2754b5b076f",
+            "url": "https://slobs-cdn.streamlabs.com/Streamlabs+Desktop+Setup+1.21.3.exe#/dl.7z",
+            "hash": "d52372238e0e48de6b96645a67958c27ced4c85492e296aa57c7ae4edf35d52e",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\" -Force -Recurse"
